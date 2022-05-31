@@ -906,7 +906,6 @@ padding-bottom: 79px;
     line-height: 25px;
     color: #FFFFFF;
     padding: 0 0 35px;
-
 }
 .footer__suport__link {
     display: block;
@@ -924,7 +923,6 @@ padding-bottom: 79px;
 .footer__subscribe {
     width: 24%;
 }
-
 .footer__suport-email {
     font-size: 14px;
     line-height: 150%;
@@ -964,8 +962,5 @@ padding-bottom: 79px;
     .main__foto_Ellipse2 {
         display: block;
     }
-
-    
-
 }
 
